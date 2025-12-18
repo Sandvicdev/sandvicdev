@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/last-commit/Sandvicdev/Sandvicdev?style=for-the-badge&color=5865F2&label=Last%20Commit" alt="Last Commit" />
   </div>
 </div>
----
+
 
 <!-- Footer -->
 <div align="center">
