@@ -24,7 +24,7 @@
   </p>
 </div>
 
----
+
 
 <!-- Tech Stack Section -->
 <div align="center">
