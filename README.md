@@ -80,7 +80,7 @@
   <!-- Discord Status -->
   <h2>🎮 Currently</h2>
   <a href="https://discord.com/users/1316187326246027305" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/754497550483980328?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20coding..." width="400" alt="Discord Status" />
+    <img src="https://lanyard.cnrad.dev/api/1316187326246027305?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20coding..." width="400" alt="Discord Status" />
   </a>
   
   <!-- Visitor Counter -->
